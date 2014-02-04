@@ -1,0 +1,1090 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ad1749c1-2571-4d4e-9110-902e6ad6ddf3" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assets/stylesheets/_foo.sass" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/main_menu.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/site_info.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/helpers/build_main_menu.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/helpers/mixin.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/entypo-level-down-black.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/entypo-level-down-grey-dusty.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/entypo-level-down-grey-emperor.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/entypo-level-down-grey-mineshaft.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/entypo-level-down-red-guardsman.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/entypo-level-down-white.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-angle-circled-down-black.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-angle-circled-down-grey-dusty.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-angle-circled-down-grey-emperor.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-angle-circled-down-grey-mineshaft.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-angle-circled-down-red-guardsman.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-angle-circled-down-white.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-angle-circled-up-black.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-angle-circled-up-grey-dusty.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-angle-circled-up-grey-emperor.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-angle-circled-up-grey-mineshaft.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-angle-circled-up-red-guardsman.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-angle-circled-up-white.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-building-black.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-building-grey-dusty.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-building-grey-emperor.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-building-grey-mineshaft.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-building-red-guardsman.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-building-white.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-clock-black.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-clock-grey-dusty.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-clock-grey-emperor.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-clock-grey-mineshaft.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-clock-red-guardsman.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-clock-white.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-comment-empty-black.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-comment-empty-grey-dusty.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-comment-empty-grey-emperor.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-comment-empty-grey-mineshaft.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-comment-empty-red-guardsman.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-comment-empty-white.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-doc-text-black.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-doc-text-grey-dusty.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-doc-text-grey-emperor.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-doc-text-grey-mineshaft.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-doc-text-red-guardsman.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-doc-text-white.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-down-open-black.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-down-open-grey-dusty.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-down-open-grey-emperor.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-down-open-grey-mineshaft.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-down-open-red-guardsman.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-down-open-white.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-eye-black.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-eye-grey-dusty.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-eye-grey-emperor.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-eye-grey-mineshaft.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-eye-red-guardsman.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-eye-white.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-folder-open-empty-black.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-folder-open-empty-grey-dusty.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-folder-open-empty-grey-emperor.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-folder-open-empty-grey-mineshaft.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-folder-open-empty-red-guardsman.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-folder-open-empty-white.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-lightbulb-black.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-lightbulb-grey-dusty.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-lightbulb-grey-emperor.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-lightbulb-grey-mineshaft.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-lightbulb-red-guardsman.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-lightbulb-white.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-menu-black.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-menu-grey-dusty.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-menu-grey-emperor.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-menu-grey-mineshaft.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-menu-red-guardsman.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-menu-white.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-ok-circled-black.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-ok-circled-grey-dusty.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-ok-circled-grey-emperor.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-ok-circled-grey-mineshaft.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-ok-circled-red-guardsman.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-ok-circled-white.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-ok-circled2-black.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-ok-circled2-grey-dusty.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-ok-circled2-grey-emperor.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-ok-circled2-grey-mineshaft.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-ok-circled2-red-guardsman.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-ok-circled2-white.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-thumbs-up-alt-black.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-thumbs-up-alt-grey-dusty.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-thumbs-up-alt-grey-emperor.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-thumbs-up-alt-grey-mineshaft.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-thumbs-up-alt-red-guardsman.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-thumbs-up-alt-white.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-up-open-black.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-up-open-grey-dusty.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-up-open-grey-emperor.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-up-open-grey-mineshaft.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-up-open-red-guardsman.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-up-open-white.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-user-black.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-user-grey-dusty.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-user-grey-emperor.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-user-grey-mineshaft.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-user-red-guardsman.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/fontawesome-user-white.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/icons/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/logo-large-text.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/logo-large.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/javascripts/all.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/javascripts/app/categories.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/javascripts/app/equalHeights.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/javascripts/app/main_menu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/javascripts/app/results_filter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/javascripts/app/searchBox.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/javascripts/app/tags.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/stylesheets/partials/_base.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/stylesheets/partials/_modules.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/stylesheets/partials/_styleguide.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/stylesheets/partials/base/_dependencies.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/stylesheets/partials/base/_extendables.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/stylesheets/partials/base/_functions.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/stylesheets/partials/base/_mixins.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/stylesheets/partials/base/_toolkid.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/stylesheets/partials/base/_variables.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/stylesheets/partials/base/extendables/_block-titles.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/stylesheets/partials/base/extendables/_shadows.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/stylesheets/partials/base/mixins/_fonts.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/stylesheets/partials/base/toolkid/_color.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/stylesheets/partials/base/toolkid/_positioning.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/stylesheets/partials/base/toolkid/_size-conversions.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/stylesheets/partials/base/toolkid/_span.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/stylesheets/partials/base/variables/_colors.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/stylesheets/partials/base/variables/_layout.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/stylesheets/partials/modules/_page.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/stylesheets/partials/styleguide/_1reset.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/stylesheets/partials/styleguide/_typography.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/kb.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/layouts/layout.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/layouts/with-sidebar.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/layouts/without-sidebar.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/partials/_activity_element.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/partials/_activity_element.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/partials/_article_teaser.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/partials/_article_teaser_long.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/partials/_article_teaser_short.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/partials/_block.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/partials/_block.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/partials/_buttons.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/partials/_buttons.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/partials/_categories.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/partials/_categories.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/partials/_category.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/partials/_category.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/partials/_container.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/partials/_container.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/partials/_domainName.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/partials/_domainName.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/partials/_loadmore.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/partials/_loadmore.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/partials/_logo.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/partials/_logo.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/partials/_mainMenu.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/partials/_mainMenu.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/partials/_pages.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/partials/_paginator.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/partials/_paginator.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/partials/_preface.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/partials/_results_filter.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/partials/_results_filter.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/partials/_search.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/partials/_search.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/partials/_sidebar.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/partials/_sidebar.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/partials/_tag.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/partials/_tag.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/partials/_tags.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/partials/_tags.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/partials/article_teaser/_article_teaser_mixins.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/partials/article_teaser/_long.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/partials/article_teaser/_short.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/partials/block/_box.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/partials/block/_element.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/partials/block/_standard.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/partials/container/_footer.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/partials/container/_header.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/partials/container/_main.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/partials/container/_preface.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/partials/mainMenu/_desktop.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/partials/mainMenu/_mobile.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/partials/mainMenu/_variations.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/partials/pages/_dashboard.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/partials/pages/_kb.sass" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gruntfile.js" afterPath="$PROJECT_DIR$/Gruntfile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower.json" afterPath="$PROJECT_DIR$/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.rb" afterPath="$PROJECT_DIR$/config.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/index.html.haml" afterPath="$PROJECT_DIR$/source/index.html.haml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/layouts/skeleton.haml" afterPath="$PROJECT_DIR$/source/layouts/skeleton.haml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/assets/stylesheets/style.sass" afterPath="$PROJECT_DIR$/source/assets/stylesheets/style.sass" />
+    </list>
+    <ignored path="hivemind-frontend-prototype-2.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="hivemind-frontend-prototype-2" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="style.sass" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/assets/stylesheets/style.sass">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="13" selection-start="422" selection-end="422" vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="600">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="26" column="1" selection-start="598" selection-end="598" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="570">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="78" column="29" selection-start="1732" selection-end="1732" vertical-scroll-proportion="-6.576923" vertical-offset="999" max-vertical-offset="2025">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html.haml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/index.html.haml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="6" selection-start="6" selection-end="6" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="516">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="modules.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/source/assets/stylesheets/style.sass" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/config.rb" />
+        <option value="$PROJECT_DIR$/source/index.html.haml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1612" />
+    <option name="y" value="30" />
+    <option name="width" value="1630" />
+    <option name="height" value="986" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Encapsulation issues</id>
+          </State>
+          <State>
+            <id>Error handling</id>
+          </State>
+          <State>
+            <id>Gems</id>
+          </State>
+          <State>
+            <id>JUnit issues</id>
+          </State>
+          <State>
+            <id>Java language level migration aids</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Logging issues</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hivemind-frontend-prototype-2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hivemind-frontend-prototype-2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hivemind-frontend-prototype-2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hivemind-frontend-prototype-2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hivemind-frontend-prototype-2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hivemind-frontend-prototype-2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hivemind-frontend-prototype-2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layouts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hivemind-frontend-prototype-2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hivemind-frontend-prototype-2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stylesheets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hivemind-frontend-prototype-2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hivemind-frontend-prototype-2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".idea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="Template Data Languages" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="hivemind-frontend-prototype-2" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="hivemind-frontend-prototype-2" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="RSpecRunConfigurationType" factoryName="RSpec">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="hivemind-frontend-prototype-2" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest">
+      <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
+      <module name="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="hivemind-frontend-prototype-2" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browserFamily" value="FIREFOX" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/usr/bin/flashplayerdebugger" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CommandRunConfigurationType" factoryName="Gem Command">
+      <module name="" />
+      <COMMAND_RUN_CONFIGURATION NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <COMMAND_RUN_CONFIGURATION NAME="WORK DIR" VALUE="" />
+      <COMMAND_RUN_CONFIGURATION NAME="SHOULD_USE_SDK" VALUE="false" />
+      <COMMAND_RUN_CONFIGURATION NAME="ALTERN_SDK_NAME" VALUE="" />
+      <COMMAND_RUN_CONFIGURATION NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <COMMAND_CONFIG_SETTINGS_ID NAME="GEM_NAME" VALUE="" />
+      <COMMAND_CONFIG_SETTINGS_ID NAME="EXECUTABLE_NAME" VALUE="" />
+      <COMMAND_CONFIG_SETTINGS_ID NAME="EXECUTABLE_ARGS" VALUE="" />
+      <COMMAND_CONFIG_SETTINGS_ID NAME="WORKING_DIR" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="hivemind-frontend-prototype-2" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="hivemind-frontend-prototype-2" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" output_log_level="null" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browserFamily" value="FIREFOX" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/usr/bin/flashplayerdebugger" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="hivemind-frontend-prototype-2" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="middleman" type="CommandRunConfigurationType" factoryName="Gem Command">
+      <module name="hivemind-frontend-prototype-2" />
+      <COMMAND_RUN_CONFIGURATION NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <COMMAND_RUN_CONFIGURATION NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
+      <COMMAND_RUN_CONFIGURATION NAME="SHOULD_USE_SDK" VALUE="false" />
+      <COMMAND_RUN_CONFIGURATION NAME="ALTERN_SDK_NAME" VALUE="" />
+      <COMMAND_RUN_CONFIGURATION NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <COMMAND_CONFIG_SETTINGS_ID NAME="GEM_NAME" VALUE="middleman" />
+      <COMMAND_CONFIG_SETTINGS_ID NAME="EXECUTABLE_NAME" VALUE="middleman" />
+      <COMMAND_CONFIG_SETTINGS_ID NAME="EXECUTABLE_ARGS" VALUE="" />
+      <COMMAND_CONFIG_SETTINGS_ID NAME="WORKING_DIR" VALUE="" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Gem Command.middleman" />
+    </list>
+    <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad1749c1-2571-4d4e-9110-902e6ad6ddf3" name="Default" comment="" />
+      <created>1391360063600</created>
+      <updated>1391360063600</updated>
+      <workItem from="1391360068519" duration="410000" />
+      <workItem from="1391360489601" duration="50000" />
+      <workItem from="1391360551768" duration="175000" />
+      <workItem from="1391360745048" duration="2588000" />
+      <workItem from="1391512291096" duration="287000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3510000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1612" y="30" width="1630" height="986" extended-state="4" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32938388" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32938388" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24873738" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32897863" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/source/assets/stylesheets/style.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="13" selection-start="422" selection-end="422" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="600">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/assets/stylesheets/style.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="582" selection-end="582" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="585">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/assets/stylesheets/style.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="13" selection-start="596" selection-end="596" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="585">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/assets/stylesheets/style.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="21" selection-start="604" selection-end="604" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="585">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/assets/stylesheets/style.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="13" selection-start="422" selection-end="422" vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="600">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="1" selection-start="598" selection-end="598" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="570">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="78" column="29" selection-start="1732" selection-end="1732" vertical-scroll-proportion="-6.576923" vertical-offset="999" max-vertical-offset="2025">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/index.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="6" selection-start="6" selection-end="6" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="516">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>actionmailer (v4.0.0, Remote:ruby-2.0.0-p353) [gem]</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>RVM: ruby-2.0.0-p353 [global]</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>hivemind-frontend-prototype-2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+
