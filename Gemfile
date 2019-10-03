@@ -13,7 +13,7 @@ gem 'tzinfo-data'
 
 # Middleman-blog
 gem 'middleman-blog'
-gem 'nokogiri', '~> 1.6.1' # Required for blog article.summary
+gem 'nokogiri', '~> 1.6.8' # Required for blog article.summary
 
 # Windows-only
 platforms :mswin, :mingw do
