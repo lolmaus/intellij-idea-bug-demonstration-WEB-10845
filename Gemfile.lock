@@ -85,14 +85,14 @@ GEM
       sprockets (~> 2.1)
       sprockets-helpers (~> 1.0.0)
       sprockets-sass (~> 1.0.0)
-    mini_portile (0.5.2)
+    mini_portile2 (2.1.0)
     modular-scale (1.0.6)
       compass (>= 0.12.1)
       sass (>= 3.2.0)
       sassy-math (>= 1.5)
     multi_json (1.8.4)
-    nokogiri (1.6.1)
-      mini_portile (~> 0.5.0)
+    nokogiri (1.6.8.1)
+      mini_portile2 (~> 2.1.0)
     oily_png (1.1.0)
       chunky_png (~> 1.2.7)
     rack (1.5.2)
@@ -164,7 +164,7 @@ DEPENDENCIES
   middleman-blog
   middleman-livereload
   modular-scale
-  nokogiri (~> 1.6.1)
+  nokogiri (~> 1.6.8)
   oily_png
   rb-inotify (~> 0.9.2)
   sass (~> 3.2.12)
